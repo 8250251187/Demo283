@@ -25,3 +25,6 @@ C:\Users\user\Desktop\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.Properties.Resources
 C:\Users\user\Desktop\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.exe
 C:\Users\user\Desktop\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.pdb
+C:\Users\user\Demo283\TicTacToe\OOXX\bin\Debug\OOXX.exe.config
+C:\Users\user\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.exe
+C:\Users\user\Demo283\TicTacToe\OOXX\obj\Debug\OOXX.pdb

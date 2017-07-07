@@ -23,7 +23,7 @@ namespace OOXX
         {
             if (btn1.Text == "X" && btn2.Text == "X" && btn3.Text == "X")
                 MessageBox.Show("X WIN");
-            if (btn4.Text == "X" && btn5.Text == "X" && btn7.Text == "X")
+            if (btn4.Text == "X" && btn5.Text == "X" && btn6.Text == "X")
                 MessageBox.Show("X WIN");
             if (btn7.Text == "X" && btn8.Text == "X" && btn9.Text == "X")
                 MessageBox.Show("X WIN");
@@ -40,7 +40,7 @@ namespace OOXX
 
             if (btn1.Text == "O" && btn2.Text == "O" && btn3.Text == "O")
                 MessageBox.Show("O WIN");
-            if (btn4.Text == "O" && btn5.Text == "O" && btn7.Text == "O")
+            if (btn4.Text == "O" && btn5.Text == "O" && btn6.Text == "O")
                 MessageBox.Show("O WIN");
             if (btn7.Text == "O" && btn8.Text == "O" && btn9.Text == "O")
                 MessageBox.Show("O WIN");
